@@ -7,7 +7,7 @@
                 "title": "אנדרטת חטיבת הנגב",
                 "youtube": "https://www.youtube.com/watch?v=Iu-yn8fMaFE",
                 "image": "./data/img/negev_brigade.jpg",
-                "nav_to": [ 34.821966, 31.265984 ]
+                "nav_to": [34.985349,  32.478265  ]
             },
             "geometry": {
                 "type": "Point",
