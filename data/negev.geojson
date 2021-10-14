@@ -4,23 +4,23 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "אנדרטת חטיבת הנגב",
+                "title": "חניון עכו",
                 "youtube": "https://www.youtube.com/watch?v=Iu-yn8fMaFE",
                 "image": "./data/img/negev_brigade.jpg",
-                "nav_to": [34.985349,  32.478265  ]
+                "nav_to": [35.071393,  32.92315 ]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.820537,
-                    31.266739
+                    35.071393,
+                    32.923158
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "title": "אנדרטת הקומנדו הצרפתי",
+                "title": "רחוב וייצמן",
                 "youtube": "https://www.youtube.com/watch?v=sA1wUGSs_2I",
                 "image": "./data/img/commando_monument.jpg",
                 "hide_nav": true
@@ -28,24 +28,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.820119,
-                    31.265008
+                    35.070931,
+                    32.922982
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "title": "גן אלנבי",
+                "title": "תמר ירדן",
                 "youtube": "https://www.youtube.com/watch?v=6Lzc7Npt_Ic",
                 "image": "./data/img/allenby.jpg",
-                "nav_to": [ 34.785986, 31.243332 ]
+                "nav_to": [  35.070705, 32.922471 ]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.788377,
-                    31.240726
+                    35.070705,
+                    32.922471
                 ]
             }
         },
