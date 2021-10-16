@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "title": "חניון עכו",
-                "youtube": "https://www.youtube.com/watch?v=Iu-yn8fMaFE",
+                "youtube": "https://www.youtube.com/watch?v=oIFSqDHiJsE",
                 "image": "./data/img/negev_brigade.jpg",
                 "nav_to": [35.071393,  32.92315 ]
             },
@@ -21,7 +21,7 @@
             "type": "Feature",
             "properties": {
                 "title": "רחוב וייצמן",
-                "youtube": "https://www.youtube.com/watch?v=sA1wUGSs_2I",
+                "youtube": "https://www.youtube.com/watch?v=KcligUooyO4",
                 "image": "./data/img/commando_monument.jpg",
                 "hide_nav": true
             },
@@ -37,7 +37,7 @@
             "type": "Feature",
             "properties": {
                 "title": "תמר ירדן",
-                "youtube": "https://www.youtube.com/watch?v=6Lzc7Npt_Ic",
+                "youtube": "https://www.youtube.com/watch?v=hWadTpRocGw",
                 "image": "./data/img/allenby.jpg",
                 "nav_to": [  35.070705, 32.922471 ]
             },
