@@ -6,8 +6,8 @@ const STYLE = {
 }
 
 const DEFAULT_ACTIVATION_RADIUS = 10; //meters
-const DEFAULT_CENTER    = [ 34.7633, 31.1182 ];
-const DEFAULT_ZOOM      = 10;
+const DEFAULT_CENTER    = [ 35.071130, 32.923231 ];
+const DEFAULT_ZOOM      = 17;
 
 const TRIGGER_GPS_ON_START       = false;
 const FLY_TO_ON_START           = false;
